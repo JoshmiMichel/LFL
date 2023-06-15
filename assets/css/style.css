@@ -1,0 +1,101 @@
+body{
+  background-color: #e4e4e4f7;
+}
+.fm{
+    min-width:1200px;
+    margin-left: 10px;
+  }
+  #nomProd{
+      border:1px solid rgba(100,100,100,0.3);
+      height: 35px;
+      text-align: center;
+      color: black;
+  }
+  #pu1{
+    border:1px solid rgba(100,100,100,0.3);
+    height: 35px;
+    text-align: center;
+    color: black;
+  }
+#navbar{
+  background-color:rgb(9, 8, 8);
+}
+
+  #qt1{
+    border:1px solid rgba(100,100,100,0.3);
+    height: 35px;
+    text-align: center;
+    color: black;
+  }
+#montant{
+  border:1px solid rgba(100,100,100,0.3);
+  height: 35px;
+  text-align: center;
+  color: black;
+}
+  #card{
+    background-color: white;
+  }
+
+  #card1{
+    background-color: white;
+  }
+
+  .tot{
+    margin-right:50px;
+    float: right;
+  }
+ 
+  .ch{
+    color:rgb(12, 12, 12);
+  }
+  .white{
+    color: transparent;
+  }
+  .tablePanier{
+     margin:auto;
+     border-collapse:separate;
+     text-align: center;
+  }
+  .toto{
+    margin-left:10px;
+    float:left;
+  }
+  .trans{
+    color: red;
+    font-size: 15px;
+  }
+  #tags{
+    margin-top: 15px;
+  }
+.viderP{
+  width: 260px;
+  margin-right: 8px;
+}
+.vid{
+  width: 260px;
+}
+
+#topnav{
+  position: fixed;
+  right: 0;
+  left: 0;
+  top: 0;
+  z-index: 1030;
+  border: 0;
+  -webkit-transition: all .5s ease;
+  transition: all .5s ease;
+  min-height: 62px;
+}
+
+#header{
+  margin-top: 80px;
+}
+#texte{
+  color:rgb(12, 12, 12);
+  text-align: center;
+}
+.logo{
+  width: 120px;
+  height: 59px;
+}
